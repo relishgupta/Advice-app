@@ -107,5 +107,6 @@
   .card {
       width: 80%;
       height: 30%;
+      box-shadow: none;
   }
 }
